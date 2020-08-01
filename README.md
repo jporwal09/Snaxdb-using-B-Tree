@@ -6,3 +6,7 @@ This mini - Database System is designed using C++ programming language. It store
 2. Enter Output.exe to run<br/>
 
 The data files are stores in DB_bin directory.
+# To-Do List
+1.To Create an Update Function.<br/>
+2.More Clarity in display.<br/>
+3.Commands for it instead of numerals.<br/>
